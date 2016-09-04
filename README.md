@@ -64,5 +64,5 @@
  * 输入代码：   
   ```<?php  echo phpinfo(); ?> ```  
  * 使用浏览器访问：
-  ```https://localhost/phpinfo.php```
+  ```localhost/phpinfo.php```
 
